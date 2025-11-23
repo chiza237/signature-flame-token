@@ -1,0 +1,25 @@
+# Node / Hardhat
+node_modules
+.cache
+.env
+.env.local
+.env.*.local
+
+# Hardhat build files
+artifacts
+cache
+typechain
+coverage
+build
+
+# Editor and OS
+*.log
+.DS_Store
+.vscode
+.idea
+*.swp
+
+# Key files
+*.pem
+*.key
+*.keystore
